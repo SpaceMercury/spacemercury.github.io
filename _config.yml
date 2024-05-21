@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Your Name / Site Title"
+title: "Person`l Portfolio"
 title_separator: "-"
 name: &name "Pol Fuentes"
 description: &description "personal description"
@@ -21,10 +21,10 @@ repository: "spacemercury/spacemercury.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name: "Your Sidebar Name"
+  avatar: "photo.jpeg"
+  name: "Pol Fuentes"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Computer Science Student at EPFL"
   location: "Switzerland"
   employer: "EPFL"
   uri: # URL
@@ -43,13 +43,13 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "spacemercury"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
-  facebook: # Username
+  bluesky: # Replace this with you Bluesky username
+  facebook: "pol-fuentes-camacho"
   flickr: # Username
   foursquare: # Username
   goodreads: # Username
